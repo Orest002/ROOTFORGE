@@ -1,3 +1,5 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=170&section=header&text=ROOTFORGE&fontColor=00FF41&fontSize=38&animation=fadeIn" width="100%"/></div>
+
 # ROOTFORGE
 
 > **Linux Privilege-Escalation Enumerator** — a fast, dependency-free Bash script that maps the local privesc attack surface of a Linux host and prints a clean, colored, sectioned report.
